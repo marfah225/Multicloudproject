@@ -1,0 +1,6 @@
+[
+  {
+    "name": "backend",
+    "imageUri": "228736141112.dkr.ecr.ap-southeast-2.amazonaws.com/backend:latest"
+  }
+]
